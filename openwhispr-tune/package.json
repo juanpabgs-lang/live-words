@@ -1,0 +1,6 @@
+{
+  "name": "openwhispr-tune",
+  "private": true,
+  "description": "Writes better name-recognition settings into OpenWhispr",
+  "dependencies": { "classic-level": "^1.4.1" }
+}

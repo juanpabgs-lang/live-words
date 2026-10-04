@@ -1,0 +1,7 @@
+build/
+node_modules/
+probe/
+openwhispr-fix/
+openwhispr-backup-*/
+openwhispr-dictionary-backup-*.txt
+.DS_Store
